@@ -30,7 +30,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 Provided with a mock-up from which to frame my site.
 
-![MOCKUP]()
+![MOCKUP](https://github.com/stewk033/KevinS-Portfolio/blob/main/assets/images/portfolio-sample.jpeg)
 
 ## My Solution
 
