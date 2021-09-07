@@ -36,6 +36,6 @@ Provided with a mock-up from which to frame my site.
 
 Live URL: (https://stewk033.github.io/KevinS-Portfolio/)
 
-Refactored Code:
-* [HTML] ()
-* [CSS] ()
+Code:
+* [HTML] (https://raw.githubusercontent.com/stewk033/KevinS-Portfolio/main/index.html)
+* [CSS] (https://raw.githubusercontent.com/stewk033/KevinS-Portfolio/main/assets/css/style.css)
